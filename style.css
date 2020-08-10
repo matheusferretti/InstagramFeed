@@ -1,0 +1,44 @@
+body{
+    background: lightgrey;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+img{
+    height: 365px;
+}
+
+.post-header{
+    background: white;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.pic-feed{
+    margin: 350px;
+}
+
+.pic-feed-2{
+    margin: 350px;
+}
+
+.pic-feed-3{
+    margin: 350px;
+}
+
+.pictures{
+    background: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+div > p{
+    margin: 10px;
+    color: gray;
+}
+
+.pictures > p{
+    margin: 30px;
+    color: black;
+}
